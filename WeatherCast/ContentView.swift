@@ -1,12 +1,7 @@
-//
 //  ContentView.swift
-//  WeatherCast
-//
 //  Created by shafay11aug on 25/01/2025.
-//
 
 import SwiftUI
-
 struct ContentView: View {
     var body: some View {
         VStack {
